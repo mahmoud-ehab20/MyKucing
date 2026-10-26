@@ -8,7 +8,18 @@ Developed as a **Final Year Project** using Flutter and Firebase, with integrati
 
 | Welcome | Profile | Community | Nearby Services |
 |:---:|:---:|:---:|:---:|
-| <img width="238" alt="Welcome" src="https://github.com/user-attachments/assets/45ce195d-a286-4dcb-bd31-464b54f41bd3" /> | <img width="226" alt="Profile" src="https://github.com/user-attachments/assets/0c918afe-548b-4a36-b19a-b5ad50abceba" /> | <img width="224" alt="Community" src="https://github.com/user-attachments/assets/cd23a529-ff47-4e4e-8d30-56cf166a68a3" /> | <img width="225" alt="Maps" src="https://github.com/user-attachments/assets/5b74f5fd-502f-4107-bca7-63536647868c" /> |
+| ## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/45ce195d-a286-4dcb-bd31-464b54f41bd3" alt="MyKucing Welcome Screen" width="200">
+  <img src="https://github.com/user-attachments/assets/0c918afe-548b-4a36-b19a-b5ad50abceba" alt="MyKucing Cat Profile" width="200">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd23a529-ff47-4e4e-8d30-56cf166a68a3" alt="MyKucing Community" width="200">
+  <img src="https://github.com/user-attachments/assets/5b74f5fd-502f-4107-bca7-63536647868c" alt="MyKucing Nearby Services" width="200">
+</p>
+ |
 
 ## 📲 Download
 
