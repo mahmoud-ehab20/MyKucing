@@ -9,11 +9,11 @@ Developed as a **Final Year Project** using Flutter and Firebase, with integrati
 
 | Welcome | Profile |
 |:---:|:---:|
-| ![Welcome](images/welcome.png) | ![Profile](images/profile.png) |
+| ![Welcome](images/welcome.png.png) | ![Profile](images/profile.png.png) |
 
 | Community | Nearby Services |
 |:---:|:---:|
-| ![Community](images/community.png) | ![Nearby Services](images/maps.png) |
+| ![Community](images/community.png.png) | ![Nearby Services](images/maps.png.png) |
 
 ## 📲 Download
 
