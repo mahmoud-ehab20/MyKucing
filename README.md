@@ -1,4 +1,5 @@
 # 🐱 MyKucing — Cat Care Mobile Application
+
 MyKucing is a multilingual mobile application that helps cat owners manage their cats' profiles, monitor their health, organize care reminders, and connect with other cat owners through a community platform.
 
 Developed as a **Final Year Project** using Flutter and Firebase, with integrations for image uploads and location-based services.
@@ -8,6 +9,12 @@ Developed as a **Final Year Project** using Flutter and Firebase, with integrati
 | Welcome | Profile | Community | Nearby Services |
 |:---:|:---:|:---:|:---:|
 | <img width="238" alt="Welcome" src="https://github.com/user-attachments/assets/45ce195d-a286-4dcb-bd31-464b54f41bd3" /> | <img width="226" alt="Profile" src="https://github.com/user-attachments/assets/0c918afe-548b-4a36-b19a-b5ad50abceba" /> | <img width="224" alt="Community" src="https://github.com/user-attachments/assets/cd23a529-ff47-4e4e-8d30-56cf166a68a3" /> | <img width="225" alt="Maps" src="https://github.com/user-attachments/assets/5b74f5fd-502f-4107-bca7-63536647868c" /> |
+
+## 📲 Download
+
+[**Download MyKucing APK (Android)**](https://drive.google.com/file/d/1Amm2y1bsPwqhxCnp3VnkKaiWCvR046d-/view?usp=drive_link)
+
+*Available for Android devices only.*
 
 ## ✨ Features
 
@@ -55,8 +62,8 @@ Developed as a **Final Year Project** using Flutter and Firebase, with integrati
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/mahmoud-ehab20/MyKucing_App_Hamada-Mahmoud.git
-   cd MyKucing_App_Hamada-Mahmoud
+   git clone https://github.com/mahmoud-ehab20/MyKucing.git
+   cd MyKucing
    ```
 
 2. Install dependencies
@@ -67,13 +74,15 @@ Developed as a **Final Year Project** using Flutter and Firebase, with integrati
 
 3. Configure Firebase — set up your own Firebase project following the FlutterFire instructions, then enable **Authentication** and **Cloud Firestore**.
 
-4. Configure external services — add your own Cloudinary and Google Maps credentials. Never commit private keys or secret configuration files.
+4. Configure external services — add your own Cloudinary and Google Maps credentials.
 
 5. Run the app
 
    ```bash
    flutter run
    ```
+
+> **Note:** Firebase configuration files and API keys are not included in this repository for security reasons.
 
 ## 🔐 Security Considerations
 
